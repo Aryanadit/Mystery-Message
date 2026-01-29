@@ -185,24 +185,6 @@ mystrymessage/
 - Click any suggestion to populate the message box
 - Edit before sending
 
-## 🚢 Deployment
-
-### Deploy to Vercel (Recommended)
-
-1. Push your code to GitHub
-2. Import your repository on [Vercel](https://vercel.com)
-3. Add your environment variables
-4. Deploy!
-
-### Other Platforms
-
-This Next.js app can be deployed on:
-- **Vercel** (recommended for Next.js)
-- **Netlify**
-- **Railway**
-- **Render**
-- Any platform supporting Node.js
-
 ## 📝 API Endpoints
 
 | Method | Endpoint | Description |
@@ -215,14 +197,6 @@ This Next.js app can be deployed on:
 | POST | `/api/accept-messages` | Toggle message acceptance |
 | POST | `/api/suggest-messages` | Get AI message suggestions |
 
-## 🎨 UI/UX Highlights
-
-- **Consistent Color Scheme**: Purple/blue gradient theme throughout
-- **Responsive Design**: Mobile-first approach
-- **Smooth Animations**: Transitions and hover effects
-- **Accessible**: WCAG compliant components
-- **Modern UI**: Clean, minimalist design
-
 ## 🔒 Security Features
 
 - Password hashing with bcryptjs
@@ -231,26 +205,6 @@ This Next.js app can be deployed on:
 - Middleware-based route protection
 - Email verification for account security
 - Input validation with Zod schemas
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
 
 ## 🙏 Acknowledgments
 
